@@ -6087,5 +6087,38 @@
     ],
     "color": null,
     "weather": "// À compléter"
+  },
+  {
+    "id": "f89118a4-ccf1-4ea1-9386-9923186179ae",
+    "name": "Test Doublon",
+    "date": "2026-01-01",
+    "distance": 1.33,
+    "duration": "01:00",
+    "dplus": 5,
+    "start": "",
+    "end": "",
+    "year": 2026,
+    "region": "",
+    "department": "",
+    "gr": false,
+    "gpx": "gpx/test-doublon.gpx",
+    "speed_avg": 1.3,
+    "speed_max": 1.3,
+    "alt_min": 10,
+    "alt_max": 15,
+    "moving_time": "01:00",
+    "total_time": "01:00",
+    "segments": [
+      [
+        48.5,
+        -2.8
+      ],
+      [
+        48.51,
+        -2.79
+      ]
+    ],
+    "color": null,
+    "weather": "// À compléter"
   }
 ]
